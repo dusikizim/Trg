@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://euroturkpars6.live:8080/play/live.php?mac=00:1A:79:47:93:76&stream=594679&extension=ts
