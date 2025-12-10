@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-TARGETDURATION:9
+#EXT-X-MEDIA-SEQUENCE:2067344
+#EXTINF:9,
+https://us1.uyanik.tv/dvr/t4de_belgesel.stream_sd/2067344.ts?sid=601b807cdadb7fe4c5e0faf83ba17593
+#EXTINF:9,
+https://us1.uyanik.tv/dvr/t4de_belgesel.stream_sd/2067345.ts?sid=601b807cdadb7fe4c5e0faf83ba17593
+#EXTINF:9,
+https://us1.uyanik.tv/dvr/t4de_belgesel.stream_sd/2067346.ts?sid=601b807cdadb7fe4c5e0faf83ba17593
+#EXTINF:9,
+https://us1.uyanik.tv/dvr/t4de_belgesel.stream_sd/2067347.ts?sid=601b807cdadb7fe4c5e0faf83ba17593
