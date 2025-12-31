@@ -1,13 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:NO
-#EXT-X-TARGETDURATION:9
-#EXT-X-MEDIA-SEQUENCE:2067344
-#EXTINF:9,
-http://zafertv85.shop:8080/live/blnt8094/hbT9dnk/6287.m3u8
-#EXTINF:9,
-http://zafertv85.shop:8080/live/blnt8094/hbT9dnk/126272.m3u8
-#EXTINF:9,
-http://zafertv85.shop:8080/live/blnt8094/hbT9dnk/126272.m3u8
-#EXTINF:9,
-http://zafertv85.shop:8080/live/blnt8094/hbT9dnk/126272.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=10698&extension=m3u8
